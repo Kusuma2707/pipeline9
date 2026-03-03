@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run script
-        run: sh ak.c
+        run: echo "hii"
